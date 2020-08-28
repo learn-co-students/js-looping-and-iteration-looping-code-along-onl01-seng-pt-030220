@@ -18,7 +18,7 @@ describe( 'index.js', () => {
         .to.deep.eq( [ 'Thank you, Lisa, for the wonderful surprise gift!', 'Thank you, Kaitlin, for the wonderful surprise gift!', 'Thank you, Jan, for the wonderful surprise gift!' ] );
     } );
   } );
-
+ 
   describe( 'countDown()', () => {
     afterEach( () => {
       spy.restore();

@@ -173,7 +173,7 @@ Inside the loop, create a custom message for each name from the provided array,
 thanking that person for their gift. Collect the messages in an array and
 return this array. For example:
 
-```js
+```js 
 writeCards(["Ada", "Brendan", "Ali"], "birthday");
 ```
 
