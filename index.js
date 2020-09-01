@@ -18,3 +18,15 @@ function countDown(num) {
     console.log(num--);
   }
 };
+
+
+// function countDown(startingNumber) {
+//   while (startingNumber > 0) {
+//     console.log(startingNumber);
+//     startingNumber -= 1;
+//   }
+  
+//   console.log(startingNumber);
+// };
+
+// countDown(12);
